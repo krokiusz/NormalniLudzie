@@ -18,6 +18,7 @@ namespace kalkulator
                 Console.WriteLine("3. Mnożenie");
                 Console.WriteLine("4. Dzielenie");
                 Console.WriteLine("5. Wyciagnij pierwiastek");
+                Console.WriteLine("5. Spotęguj!");//zly nuemerek zebys mogl poprawic 
                 int nemuOption = Convert.ToInt32(Console.ReadLine());
 
                 if(nemuOption == 0)
