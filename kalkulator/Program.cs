@@ -16,7 +16,7 @@ namespace kalkulator
                 Console.WriteLine("1. Dodawanie");
                 Console.WriteLine("2. Odejmowanie");
                 Console.WriteLine("3. Mnożenie");
-                Console.WriteLine("3. Dzielenie");
+                Console.WriteLine("4. Dzielenie");
                 int nemuOption = Convert.ToInt32(Console.ReadLine());
 
                 if(nemuOption == 0)
